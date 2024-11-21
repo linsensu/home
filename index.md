@@ -20,6 +20,32 @@ My research has addressed the opinion dynamics in the process of evolution, incl
 - Su, Linsen & Li, Xigen* (2020). Perceived Agenda-Setting Effects in International Context: Media’s Impacts on Americans’ Perception toward China, the International Communication Gazette, 83(7) 708–729. 
 - Su, Linsen (2012). Propagandists, Profiteers or Communicators: The Role Perception of Chinese Journalists (in Chinese), Journal of International Communication, 34(08), 33-38.
 
+**Media Use and Effect**
+
+My research examine the changes of media use patterns, especially the competition of new and traditional media use. My recent work systematically examined the differential effects of media use on everyday life including civic engagement and well-being, and emotional outcomes like social isolation, with focus on the effect of algorithm recommendation on social media use. Some of my recent research projects investigated the dissemination and influence of (mis)information in China.
+
+- Su, Linsen & Li, Xigen* (2023). The Effects of Message Attributes and Source Characteristics of News Posts on Audience Engagement on Social Media, Asian Journal of Communication, 33(4) 390-408.
+- Su, Linsen (2023). How does TV Viewing Influence the Happiness? Direct Effect and Mediating Roles of Social Interaction and Materialism (in Chinese), Journal of International Communication, 2023(11), 85-104.
+- Su, Linsen & Liu, Xiaoyan. (2020). Relationship between Children's Internet Use and Academic Performance (in Chinese), Youth Studies, 2020(06), 13-23.
+
+**Public Opinion in an International Context**
+
+- Su, Linsen (2018). Dragon in the Mind of Americans: Relationships of Americans’ Attention to China-related News with Interest, Knowledge, and Attitude (in Chinese), Journal of International Communication, 2018(05), 98-111. 
+- Su, Linsen (2017). American Audiences’ Use of English-language Media on China-Related Topics in US (in Chinese), Contemporary Communication, 2017(02), 47-49.
+- Su, Linsen & Yi, Weifang (2014). The Impacts of Big Data Technologies on Communication Research Methods (in Chinese), Modern Communications, 2014(10), 99-102
+
+**Relationship between Media Consumption and Economic Development**
+
+I systematically introduced and tested Western theories such as the Principle of Relative Constancy in the Chinese context. I highlighted the amplifying effects of media consumption on macroeconomic fluctuations in China, contrasting Western theories, and provided theoretical and practical frameworks for evaluating regional media and cultural industries.
+
+- Su, Linsen & Chen, Shih-Chih* (2019). Exploring the Typology and Impacts of Audience Gratifications Gained from TV–Smartphone Multitasking, International Journal of Human–Computer Interaction, (36)8, 725-735.
+- Chan-Olmsted, Sylvia. & Su, Linsen* (2017). Relationship between Advertising and Consumption in China: Exploring the Roles of Economic Development and Mass Media, Global Media and China, XX: 1–19.
+- Su, Linsen (2010). The Relation between Media Expenditure and General Economy, China Media Research, 6(3), 13-25.
+- Su, Linsen (2012). Cointegrative analysis on China’s Advertising Industry and Macro-economy since Reform and Opening-up (in Chinese). Journalism & Communication Research, 19(03), 97-108
+- Su, Linsen (2012). The Dynamics Between Media Consumption and the Macro-Economy: A Comparative Study Between China and the United States (in Chinese). Beijing: China Renmin University Press.
+
+
+
 ## Research Interests
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
