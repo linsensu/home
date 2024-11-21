@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome! I am a Full Professor of Communication Science at Beijing Jiaotong University in China. I earned my PhD in Communication Science from Renmin University of China in 2009. I have also held visiting scholar positions at the University of Missouri (2007- 2008), the University of Florida (2015–2016), City University of Hong Kong (2018), and Ludwig Maximilian University of Munich (2024).
 
 ## Research Interests
 
