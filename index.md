@@ -14,11 +14,11 @@ My research has been published in peer-reviewed journals, including internationa
 Do the news media still have a significant influence on the formation of public opinion? How do emerging media change society as well as individuals’ lives? The emergence of the Internet and social media has generated new queries about the power of new and traditional media and their complex and dynamic interactions. My research addresses these queries and contributes to media effects research both theoretically and methodologically, particularly in following four fields.
 
 **Public Opinion Dynamics**
+
 My research has addressed the opinion dynamics in the process of evolution, including on the interaction between communicators and audience, online and offline opinion. My research focus on the agenda-setting effects of opinion, and how media influence on U.S. public opinion regarding China. These studies expanded traditional public opinion theories by addressing individual differences in agenda setting research and dynamic evolution of opinion.
 
 - Su, Linsen & Li, Xigen* (2020). Perceived Agenda-Setting Effects in International Context: Media’s Impacts on Americans’ Perception toward China, the International Communication Gazette, 83(7) 708–729. 
 - Su, Linsen (2012). Propagandists, Profiteers or Communicators: The Role Perception of Chinese Journalists (in Chinese), Journal of International Communication, 34(08), 33-38.
-
 
 ## Research Interests
 - **Computer Vision:** image recognition, image generation, video captioning
