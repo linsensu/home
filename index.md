@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Full Professor of Communication Science at Beijing Jiaotong University in China. I earned my PhD in Communication Science from Renmin University of China in 2009. I have also held visiting scholar positions at the University of Missouri (2007- 2008), the University of Florida (2015–2016), City University of Hong Kong (2018), and Ludwig Maximilian University of Munich (2024).
+Welcome! I am a Professor of Communication Science at Beijing Jiaotong University in China. I earned my PhD in Communication Science from Renmin University of China in 2009. I have also held visiting scholar positions at the University of Missouri (2007- 2008), the University of Florida (2015–2016), City University of Hong Kong (2018), and Ludwig Maximilian University of Munich (2024).
 
 My research interests encompass communication effects, political communication, and online public opinion. Recently, I have focused on new media effects in the context of international perceptions, and the dynamics between domestic and international public opinion. My methodological expertise lies in utilizing data science approaches to analyze media usage, communication effects, and social media data. 
 
