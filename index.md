@@ -11,7 +11,9 @@ My research interests encompass communication effects, political communication, 
 My research has been published in peer-reviewed journals, including international journals such as Asian Journal of Communication, the International Communication Gazette, International Journal of Human–Computer Interaction, as well as top Chinese journals like Journalism & Communication Research (新闻与传播研究), The International Journalism Review (国际新闻界), Modern Communication (现代传播), Journalism University (新闻大学). Some of my works have also been presented at leading international conferences, such as ICA, IAMCR, and AEJMC. These works have been funded by the National Social Science Fund of China, the State Council Information Office of the PRC, and the National Ethnic Affairs Commission of the PRC.
 
 ## Research
+Do the news media still have a significant influence on the formation of public opinion? How do emerging media change society as well as individuals’ lives? The emergence of the Internet and social media has generated new queries about the power of new and traditional media and their complex and dynamic interactions. My research addresses these queries and contributes to media effects research both theoretically and methodologically, particularly in following four fields.
 
+*Computer Vision*
 
 
 ## Research Interests
