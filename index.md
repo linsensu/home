@@ -63,6 +63,42 @@ This course focuses on how to apply research methods, such as survey, content an
 - Descriptive and Preliminary Data Analysis
 - Writing Research Report or Paper in Social Sciences
 
+**2. Social Statistics**
+This course aims to equip students with the skills to describe and infer from data obtained. Students will learn the appropriate statistical methods dealing with various research questions, their step-by-step procedures, and how to interpret results. Guided by the principle of "learning through application," the course integrates social statistics with research question in everyday life, making it a powerful analytical tool for understanding society. The course emphasizes the practical application of statistical analysis to journalism and communication phenomena rather than mathematical foundations. Students will gain an understanding of how to apply these statistical methods using software like SPSS. The main topics include:
+- Introduction to Social Statistics
+- Data Collection and Management
+- Measures of Central Tendency
+- Measures of Dispersion
+- Parameter Estimation and Hypothesis Testing
+- Comparing Means
+- Chi-Square Test
+- Correlation Analysis
+- Linear Regression Analysis
+
+**3. Studies on Business Communication**
+This course analyzes updated business communication cases, solidifies students' theoretical foundation, and broadens their research perspectives to meet the demand for talents skilled in new media applications. Research-oriented teaching, guided by academic achievements, is integrated into the curriculum, encouraging active student participation in practical investigations. The course emphasizes the combination of theory and practice, fostering a synergy between teaching, research, and practical applications. The topics of the course include: 
+- Introduction to Business Communication
+- Journalism and the Commercial Society
+- Journalism, Communication, and Information Systems
+- Health Belief Model and Business Communication Effects
+- Key Opinion Leaders (KOLs) in Business Development
+- Formation and Evolution of Business Online Public Opinion
+- Rumors and Misinformation in Business Communication
+- Impact of AIGC on the Business Communication Ecosystem
+- National Branding and City Image Communication
+- Advertising and Integrated Marketing Communication (IMC)
+-  Evaluation of Business Communication Effects
+
+**4. Public Opinion Studies**
+This course provides a comprehensive exploration of public opinion, focusing on its opinion formation and dissemination, as well as its roles and influences in social life. Students will gain a theoretical and practical understanding of the key concepts, historical development, and methodologies associated with public opinion. The topics of the course include:
+- Understanding Public Opinion
+- Conceptualization and Historical Development of Public Opinion
+- Formation of Public Opinion
+- Distribution of Public Opinion
+- Dynamics of Opinion Evolution
+- Roles and Functions of Public Opinion in Social Life
+- Management of Public Opinion in Civil Society
+
 ## News
 
 - **[Feb. 2020]** 
