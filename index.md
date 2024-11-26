@@ -16,16 +16,19 @@ My research has been published in peer-reviewed journals, including internationa
 - **Online public opinion:** opinion dynamics in the process of evolution, including on the interaction between domestic and international public opinion, as well as online and offline opinion 
 
 ## Research
-Do the news media still have a significant influence on the formation of public opinion? How do emerging media change society as well as individuals’ lives? The emergence of the Internet and social media has generated new queries about the power of new and traditional media and their complex and dynamic interactions. My research addresses these queries and contributes to media effects research both theoretically and methodologically, particularly in following four fields.
+Do the news media still have a significant influence on the formation of public opinion? How do emerging media change society as well as individuals’ lives? The emergence of the Internet and social media has generated new queries about the power of new and traditional media and their complex and dynamic interactions. My research addresses these queries and contributes to media effects research both theoretically and methodologically, particularly in following three fields.
 
-**Public Opinion Dynamics**
+**1. Public Opinion Dynamics**
 
-My research has addressed the opinion dynamics in the process of evolution, including on the interaction between communicators and audience, online and offline opinion. My research focus on the agenda-setting effects of opinion, and how media influence on U.S. public opinion regarding China. These studies expanded traditional public opinion theories by addressing individual differences in agenda setting research and dynamic evolution of opinion.
+My research has addressed the opinion dynamics in the process of evolution, including on the interaction between communicators and audience, online and offline opinion. My research focus on the agenda-setting effects of opinion, and how media influence on U.S. public opinion regarding China. These studies expanded traditional public opinion theories by addressing individual differences in agenda setting research and dynamic evolution of opinion. Recently I focused on the public opinion dynamics in an international context, especially the interaction between domestic and international public opinion.
 
 - Su, Linsen & Li, Xigen* (2020). Perceived Agenda-Setting Effects in International Context: Media’s Impacts on Americans’ Perception toward China, the International Communication Gazette, 83(7) 708–729. 
 - Su, Linsen (2012). Propagandists, Profiteers or Communicators: The Role Perception of Chinese Journalists (in Chinese), Journal of International Communication, 34(08), 33-38.
+- Su, Linsen (2018). Dragon in the Mind of Americans: Relationships of Americans’ Attention to China-related News with Interest, Knowledge, and Attitude (in Chinese), Journal of International Communication, 2018(05), 98-111. 
+- Su, Linsen (2017). American Audiences’ Use of English-language Media on China-Related Topics in US (in Chinese), Contemporary Communication, 2017(02), 47-49.
+- Su, Linsen & Yi, Weifang (2014). The Impacts of Big Data Technologies on Communication Research Methods (in Chinese), Modern Communications, 2014(10), 99-102
 
-**Media Use and Effect**
+**2. Media Use and Effect**
 
 My research examine the changes of media use patterns, especially the competition of new and traditional media use. My recent work systematically examined the differential effects of media use on everyday life including civic engagement and well-being, and emotional outcomes like social isolation, with focus on the effect of algorithm recommendation on social media use. Some of my recent research projects investigated the dissemination and influence of (mis)information in China.
 
@@ -33,13 +36,7 @@ My research examine the changes of media use patterns, especially the competitio
 - Su, Linsen (2023). How does TV Viewing Influence the Happiness? Direct Effect and Mediating Roles of Social Interaction and Materialism (in Chinese), Journal of International Communication, 2023(11), 85-104.
 - Su, Linsen & Liu, Xiaoyan. (2020). Relationship between Children's Internet Use and Academic Performance (in Chinese), Youth Studies, 2020(06), 13-23.
 
-**Public Opinion in an International Context**
-
-- Su, Linsen (2018). Dragon in the Mind of Americans: Relationships of Americans’ Attention to China-related News with Interest, Knowledge, and Attitude (in Chinese), Journal of International Communication, 2018(05), 98-111. 
-- Su, Linsen (2017). American Audiences’ Use of English-language Media on China-Related Topics in US (in Chinese), Contemporary Communication, 2017(02), 47-49.
-- Su, Linsen & Yi, Weifang (2014). The Impacts of Big Data Technologies on Communication Research Methods (in Chinese), Modern Communications, 2014(10), 99-102
-
-**Relationship between Media Consumption and Economic Development**
+**3. Relationship between Media Consumption and Economic Development**
 
 I systematically introduced and tested Western theories such as the Principle of Relative Constancy in the Chinese context. I highlighted the amplifying effects of media consumption on macroeconomic fluctuations in China, contrasting Western theories, and provided theoretical and practical frameworks for evaluating regional media and cultural industries.
 
