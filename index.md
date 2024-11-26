@@ -45,7 +45,24 @@ I systematically introduced and tested Western theories such as the Principle of
 - Su, Linsen (2010). The Relation between Media Expenditure and General Economy, China Media Research, 6(3), 13-25.
 - Su, Linsen (2012). Cointegrative analysis on China’s Advertising Industry and Macro-economy since Reform and Opening-up (in Chinese). Journalism & Communication Research, 19(03), 97-108
 - Su, Linsen (2012). The Dynamics Between Media Consumption and the Macro-Economy: A Comparative Study Between China and the United States (in Chinese). Beijing: China Renmin University Press.
-  
+
+## Teaching
+As an instructor of Media & Communication Studies, my primary goal is to prepare my students to succeed in a rapidly changing media environment as either industry or academic leaders. My teaching focuses on the following courses:
+
+**1. Communication Research Methods**
+This course focuses on how to apply research methods, such as survey, content analysis, and experiments, to study communication phenomena and patterns. Through practical examples, students will learn about the communication research process, including topic selection, data collection, data analysis, drawing conclusions, and report/paper writing. The main topics of the course include:
+- From Conceptualization to Operationalization: An Overview of Social Science Research
+- Starting Points of Social Science Research: Theories and Literature
+- Operationalization of Concepts and Variable Measurement
+- Survey Research in Social Science Studies
+- Principles and Implementation of Sampling Surveys
+- Data Cleaning, Transformation, and Analysis for Surveys
+- Public Databases and Their Applications in Communication Research 
+- Experimental Methods and Their Applications in Communication Research
+- Content Analysis
+- Descriptive and Preliminary Data Analysis
+- Writing Research Report or Paper in Social Sciences
+
 ## News
 
 - **[Feb. 2020]** 
