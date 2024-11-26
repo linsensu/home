@@ -8,7 +8,7 @@
   <li><a href=""><autocolor>Social Science Funds of Beijing and Shanghai Shanghai (2023–Present)</autocolor></a></li>
   <li><a href=""><autocolor>Degrees and Graduate Education Development Center, Ministry of Education, China (2018–Present)</autocolor></a></li>
    <li><a href=""><autocolor>New Media Professional Committee, All-China Journalists Association (2022–Present)</autocolor></a></li>
-<li><a href=""><autocolor> I currently serve as a peer reviewer for over 10 Chinese or English academic journals.</autocolor></a></li>
+<li><a href=""><autocolor> Over 10 Chinese or English academic journals.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership</h4>
