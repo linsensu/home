@@ -47,9 +47,10 @@ I systematically introduced and tested Western theories such as the Principle of
 
 
 ## Research Interests
-- **A:** 
-- **B:** 
-
+- **Communication effects:** Competition and cooperation between traditional media and new media, influence of new media use on well-being, and presumed media’s influence
+- **Political communication:** Media’s role in political participation and civic engagement 
+- **Online public opinion:** opinion dynamics in the process of evolution, including on the interaction between domestic and international public opinion, as well as online and offline opinion 
+  
 ## News
 
 - **[Feb. 2020]** 
