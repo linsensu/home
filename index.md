@@ -99,11 +99,4 @@ This course provides a comprehensive exploration of public opinion, focusing on 
 - Roles and Functions of Public Opinion in Social Life
 - Management of Public Opinion in Civil Society
 
-## News
-
-- **[Feb. 2020]** 
-- **[Feb. 2020]** 
-- **[Sept. 2019]** 
-- **[Mar. 2019]** 
-
 {% include_relative _includes/services.md %}
