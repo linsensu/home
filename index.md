@@ -10,6 +10,11 @@ My research interests encompass communication effects, political communication, 
 
 My research has been published in peer-reviewed journals, including international journals such as Asian Journal of Communication, the International Communication Gazette, International Journal of Human–Computer Interaction, as well as top Chinese journals like Journalism & Communication Research (新闻与传播研究), The International Journalism Review (国际新闻界), Modern Communication (现代传播), Journalism University (新闻大学). Some of my works have also been presented at leading international conferences, such as ICA, IAMCR, and AEJMC. These works have been funded by the National Social Science Fund of China, the State Council Information Office of the PRC, and the National Ethnic Affairs Commission of the PRC.
 
+## Research Interests
+- **Communication effects:** Competition and cooperation between traditional media and new media, influence of new media use on well-being, and presumed media’s influence
+- **Political communication:** Media’s role in political participation and civic engagement 
+- **Online public opinion:** opinion dynamics in the process of evolution, including on the interaction between domestic and international public opinion, as well as online and offline opinion 
+
 ## Research
 Do the news media still have a significant influence on the formation of public opinion? How do emerging media change society as well as individuals’ lives? The emergence of the Internet and social media has generated new queries about the power of new and traditional media and their complex and dynamic interactions. My research addresses these queries and contributes to media effects research both theoretically and methodologically, particularly in following four fields.
 
@@ -43,13 +48,6 @@ I systematically introduced and tested Western theories such as the Principle of
 - Su, Linsen (2010). The Relation between Media Expenditure and General Economy, China Media Research, 6(3), 13-25.
 - Su, Linsen (2012). Cointegrative analysis on China’s Advertising Industry and Macro-economy since Reform and Opening-up (in Chinese). Journalism & Communication Research, 19(03), 97-108
 - Su, Linsen (2012). The Dynamics Between Media Consumption and the Macro-Economy: A Comparative Study Between China and the United States (in Chinese). Beijing: China Renmin University Press.
-
-
-
-## Research Interests
-- **Communication effects:** Competition and cooperation between traditional media and new media, influence of new media use on well-being, and presumed media’s influence
-- **Political communication:** Media’s role in political participation and civic engagement 
-- **Online public opinion:** opinion dynamics in the process of evolution, including on the interaction between domestic and international public opinion, as well as online and offline opinion 
   
 ## News
 
