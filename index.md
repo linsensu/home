@@ -22,7 +22,7 @@ Do the news media still have a significant influence on the formation of public 
 
 My research has addressed the opinion dynamics in the process of evolution, including on the interaction between communicators and audience, online and offline opinion. My research focus on the agenda-setting effects of opinion, and how media influence on U.S. public opinion regarding China. These studies expanded traditional public opinion theories by addressing individual differences in agenda setting research and dynamic evolution of opinion. Recently I focused on the public opinion dynamics in an international context, especially the interaction between domestic and international public opinion.
 
-- Su, Linsen & Li, Xigen* (2020). Perceived Agenda-Setting Effects in International Context: Media’s Impacts on Americans’ Perception toward China, the International Communication Gazette, 83(7) 708–729. 
+- Su, Linsen & Li, Xigen* (2020). Perceived Agenda-Setting Effects in International Context: Media’s Impacts on Americans’ Perception toward China, [the International Communication Gazette](https://journals.sagepub.com/doi/full/10.1177/1748048520984029), 83(7) 708–729. 
 - Su, Linsen (2012). Propagandists, Profiteers or Communicators: The Role Perception of Chinese Journalists (in Chinese), Journal of International Communication, 34(08), 33-38.
 - Su, Linsen (2018). Dragon in the Mind of Americans: Relationships of Americans’ Attention to China-related News with Interest, Knowledge, and Attitude (in Chinese), Journal of International Communication, 2018(05), 98-111. 
 - Su, Linsen (2017). American Audiences’ Use of English-language Media on China-Related Topics in US (in Chinese), Contemporary Communication, 2017(02), 47-49.
