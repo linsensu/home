@@ -40,8 +40,8 @@ My research examine the changes of media use patterns, especially the competitio
 
 I systematically introduced and tested Western theories such as the Principle of Relative Constancy in the Chinese context. I highlighted the amplifying effects of media consumption on macroeconomic fluctuations in China, contrasting Western theories, and provided theoretical and practical frameworks for evaluating regional media and cultural industries.
 
-- Su, Linsen & Chen, Shih-Chih* (2019). Exploring the Typology and Impacts of Audience Gratifications Gained from TV–Smartphone Multitasking, International Journal of Human–Computer Interaction, (36)8, 725-735.
-- Chan-Olmsted, Sylvia. & Su, Linsen* (2017). Relationship between Advertising and Consumption in China: Exploring the Roles of Economic Development and Mass Media, Global Media and China, XX: 1–19.
+- Su, Linsen & Chen, Shih-Chih* (2019). [Exploring the Typology and Impacts of Audience Gratifications Gained from TV–Smartphone Multitasking](https://www.tandfonline.com/doi/abs/10.1080/10447318.2019.1683312), International Journal of Human–Computer Interaction, (36)8, 725-735.
+- Chan-Olmsted, Sylvia. & Su, Linsen* (2017). [Relationship between Advertising and Consumption in China: Exploring the Roles of Economic Development and Mass Media](https://journals.sagepub.com/doi/full/10.1177/2059436417744368), Global Media and China, XX: 1–19.
 - Su, Linsen (2010). The Relation between Media Expenditure and General Economy, China Media Research, 6(3), 13-25.
 - Su, Linsen (2012). Cointegrative analysis on China’s Advertising Industry and Macro-economy since Reform and Opening-up (in Chinese). Journalism & Communication Research, 19(03), 97-108
 - Su, Linsen (2012). The Dynamics Between Media Consumption and the Macro-Economy: A Comparative Study Between China and the United States (in Chinese). Beijing: China Renmin University Press.
