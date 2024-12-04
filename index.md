@@ -32,7 +32,7 @@ My research has addressed the opinion dynamics in the process of evolution, incl
 
 My research examine the changes of media use patterns, especially the competition of new and traditional media use. My recent work systematically examined the differential effects of media use on everyday life including civic engagement and well-being, and emotional outcomes like social isolation, with focus on the effect of algorithm recommendation on social media use. Some of my recent research projects investigated the dissemination and influence of (mis)information in China.
 
-- Su, Linsen & Li, Xigen* (2023). The Effects of Message Attributes and Source Characteristics of News Posts on Audience Engagement on Social Media, Asian Journal of Communication, 33(4) 390-408.
+- Su, Linsen & Li, Xigen* (2023). [The Effects of Message Attributes and Source Characteristics of News Posts on Audience Engagement on Social Media]((https://www.tandfonline.com/doi/full/10.1080/01292986.2023.2200435)), Asian Journal of Communication, 33(4) 390-408.
 - Su, Linsen (2023). How does TV Viewing Influence the Happiness? Direct Effect and Mediating Roles of Social Interaction and Materialism (in Chinese), Journal of International Communication, 2023(11), 85-104.
 - Su, Linsen & Liu, Xiaoyan. (2020). Relationship between Children's Internet Use and Academic Performance (in Chinese), Youth Studies, 2020(06), 13-23.
 
